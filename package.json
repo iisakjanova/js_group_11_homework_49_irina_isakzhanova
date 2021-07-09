@@ -4,6 +4,7 @@
   "description": "Homework_49",
   "main": "task02.js",
   "scripts": {
+    "start": "node task02.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "\"Irina Isakjanova\"",
